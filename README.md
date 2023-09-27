@@ -1,6 +1,3 @@
-# AWS-Tasks
-tareas de aws 
-
 # Datapath
 ## Data Engineering with AWS
 ## Programa y edición: Nube de especializaciòn AWS 5ta ed.
